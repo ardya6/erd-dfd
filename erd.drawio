@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T13:08:26.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="Ajo067DIMI0a9KXZd_Rb" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T02:34:37.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="2a6a4ciA8cJBHj41D84z" version="20.6.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1838" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1336" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -579,7 +579,7 @@
         <mxCell id="KdnDOECzXGgV2dn73ifs-9" value="1. data User" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=24;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1890" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KdnDOECzXGgV2dn73ifs-10" value="2. jenis ruangan" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=24;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="KdnDOECzXGgV2dn73ifs-10" value="2. kategori" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=24;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="380" y="2120" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdnDOECzXGgV2dn73ifs-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=36;" parent="1" source="KdnDOECzXGgV2dn73ifs-12" target="KdnDOECzXGgV2dn73ifs-10" edge="1">
