@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T05:21:02.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="20.5.3" etag="-ZOOihxx8ER3BYRCeEpg" type="github"><diagram id="IdldJSrk58aEbsTY6n6f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2024-06-01T06:53:10.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CghpGtEZoTU4AP7YFE3c" version="20.5.3" type="github">
+  <diagram id="IdldJSrk58aEbsTY6n6f" name="Halaman-1">
+    <mxGraphModel dx="1203" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40Mh0QOXUbBcoIWHqTDh-1" target="40Mh0QOXUbBcoIWHqTDh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40Mh0QOXUbBcoIWHqTDh-1" target="40Mh0QOXUbBcoIWHqTDh-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40Mh0QOXUbBcoIWHqTDh-1" target="40Mh0QOXUbBcoIWHqTDh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-1" value="&lt;h3&gt;Konversi satuan berat&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-2" value="&lt;h3&gt;&lt;b&gt;input berat yang ingin di konversi&lt;/b&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-3" value="&lt;h3&gt;&lt;b&gt;konversi kan berat menjadi yang diinginkan&lt;/b&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-4" value="&lt;h3&gt;menampilkan hasil konversi&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-15" value="&lt;h1&gt;kerangka program konversi satuan berat&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40Mh0QOXUbBcoIWHqTDh-19" target="40Mh0QOXUbBcoIWHqTDh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40Mh0QOXUbBcoIWHqTDh-19" target="40Mh0QOXUbBcoIWHqTDh-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40Mh0QOXUbBcoIWHqTDh-19" target="40Mh0QOXUbBcoIWHqTDh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-19" value="&lt;h3&gt;menghitung luas dan keliling lingkaran&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-20" value="&lt;h3&gt;menghitung luas&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-21" value="&lt;h3&gt;menghitung keliling&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-22" value="&lt;h3&gt;menampilkan hasil perhitungan luas dan keliling lingkaran&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="780" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="40Mh0QOXUbBcoIWHqTDh-23" value="&lt;h1&gt;kerangka program menghitung luas dan keliling lingkaran&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="515" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
