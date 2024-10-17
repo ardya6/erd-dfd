@@ -28,10 +28,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="twHCCxjceD1nfkposxcJ-9" value="terdapat antrian?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="820" width="100" height="100" as="geometry" />
+          <mxGeometry x="340" y="820" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="twHCCxjceD1nfkposxcJ-12" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="520" y="840" width="100" height="60" as="geometry" />
+        <mxCell id="twHCCxjceD1nfkposxcJ-13" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-18" value="melihat status&lt;div&gt;&amp;nbsp;pesanan&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1090" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-19" value="Menghapus pesanan paling depan&amp;nbsp;setelah menampilkan informasi bahwa pesanan telah selesai." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1800" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-20" value="terdapat antrian?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-23" value="menyelesaikan&amp;nbsp;&lt;div&gt;pesanan&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-24" value="Menampilkan ID&amp;nbsp;&lt;div&gt;dan status pesanan&amp;nbsp;&lt;/div&gt;&lt;div&gt;paling depan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-25" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;tampilkan pesan&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&amp;nbsp;&quot;Antrian kosong&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-26" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;tampilkan pesan&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&amp;nbsp;&quot;Antrian kosong&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-27" value="ubah status menjadi &quot;terkirim&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-29" value="terdapat antrian?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1620" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-30" value="tampilkan pesan &quot;Tidak ada pesanan yang harus diselesaikan&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1630" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
