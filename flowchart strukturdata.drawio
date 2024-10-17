@@ -14,10 +14,24 @@
           <mxGeometry x="340" y="410" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="twHCCxjceD1nfkposxcJ-4" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="350" y="560" width="160" height="80" as="geometry" />
+          <mxGeometry x="330" y="560" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="twHCCxjceD1nfkposxcJ-5" value="melihat&amp;nbsp;&lt;div&gt;proses pesanan&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="580" width="110" height="40" as="geometry" />
+        <mxCell id="twHCCxjceD1nfkposxcJ-5" value="melihat&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;proses pesanan&lt;/span&gt;&lt;div&gt;(memproses pesanan)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-8" value="&amp;nbsp;Mengecek pesanan/antrian paling depan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="twHCCxjceD1nfkposxcJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-9" value="terdapat antrian?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twHCCxjceD1nfkposxcJ-12" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
